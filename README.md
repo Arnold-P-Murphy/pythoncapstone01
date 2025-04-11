@@ -14,9 +14,10 @@ You’ve saved the image (capstone_coins.png) into the images/ folder.
 
 📁 2. Folder Structure Should Look Like:
 
+
 coin_identifier/
 ├── images/
-│   └── capstone_coins.png
+|   └── capstone_coins.png
 ├── output/
 │   └── (will contain: detected_coins.png, detection_log.txt)
 ├── utils/
