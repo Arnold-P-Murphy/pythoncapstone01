@@ -1,6 +1,7 @@
 # pythoncapstone01
 capstone for python course
 ✅ Step-by-Step Execution in VS Code
+
 🧱 1. Prerequisites
 Make sure:
 
