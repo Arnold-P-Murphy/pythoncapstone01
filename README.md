@@ -16,13 +16,15 @@ You’ve saved the image (capstone_coins.png) into the images/ folder.
 
 
 coin_identifier/
-├── images/
-|   └── capstone_coins.png
-├── output/
-│   └── (will contain: detected_coins.png, detection_log.txt)
-├── utils/
-│   └── coin_utils.py
+
+├── images/── capstone_coins.png
+
+├── output/── (will contain: detected_coins.png, detection_log.txt)
+
+├── utils/── coin_utils.py
+
 ├── coin_detector.py
+
 ├── requirements.txt
 
 🐍 3. Create Virtual Environment
