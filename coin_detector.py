@@ -1,3 +1,9 @@
+"""
+Created on Tue Apr  11 09:50:48 2025
+
+@author: ArnoldMurphy
+"""
+
 import cv2
 import numpy as np
 import os
@@ -72,3 +78,7 @@ if circles is not None:
 
 else:
     print("⚠️ No coins detected.")
+
+
+#EOF
+# This script detects coins in an image, classifies them based on their size and brightness, and logs the results.

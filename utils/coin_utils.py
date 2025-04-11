@@ -1,3 +1,9 @@
+"""
+Created on Tue Apr  11 09:50:48 2025
+
+@author: ArnoldMurphy
+"""
+
 import numpy as np
 
 def average_pixel_brightness(img, circles, size=20):
@@ -20,3 +26,6 @@ def classify_coin(radius, brightness):
         return 2
     else:
         return 1
+
+#EOF
+# The above code is a utility module for coin detection and classification.
