@@ -1,0 +1,10 @@
+Coin 1: Center=(1358, 254), Radius=113, Brightness=185.50, Value=10p
+Coin 2: Center=(1630, 282), Radius=89, Brightness=180.98, Value=5p
+Coin 3: Center=(994, 132), Radius=108, Brightness=100.78, Value=1p
+Coin 4: Center=(1204, 742), Radius=103, Brightness=75.80, Value=1p
+Coin 5: Center=(976, 638), Radius=100, Brightness=75.55, Value=1p
+Coin 6: Center=(1696, 500), Radius=119, Brightness=95.27, Value=2p
+Coin 7: Center=(1256, 468), Radius=106, Brightness=126.82, Value=1p
+Coin 8: Center=(1434, 642), Radius=119, Brightness=87.26, Value=2p
+
+ESTIMATED TOTAL VALUE: 23p
